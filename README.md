@@ -1,3 +1,18 @@
+## Theme
+### CORPORATE SECTOR:
+In this fast and quick world ,getting your resumes acustomedly designed for each and every job
+manually is not feasible and very time consuming .Let’s take an example: A person who has a
+past experience as a teacher(say social science) and also a part time software developer.
+Now take a situation that person has applied for a post at school for a position of primary class
+social science teacher.To get this job he/she needs a strong CV showing off their skills and
+education in the background of social science,whereas if he/she applies for the post of
+SDK1(Software Developer) the point of emphasising their skills in the field of Social science
+won’t make a difference,vis-a-vi a stronghold skills in the field of software development will
+increase their chance to get the job.
+So an all in one platform that would provide you a custom made CV based on your skill set and
+emphasise your skills required as per the job would be really helpful to a job seeking person.
+<br><br>
+<br>
 # Rzume
 
 <p align="center">
@@ -9,10 +24,6 @@
 
 <br><br>
 
-[![GitHub stars](https://img.shields.io/github/stars/hhhrrrttt222111/resume-builder?color=ff69b4&style=flatsquare)](https://github.com/hhhrrrttt222111/resume-builder/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/hhhrrrttt222111/resume-builder?color=blueviolet&style=flatsquare)](https://github.com/hhhrrrttt222111/resume-builder/network)
-
-<br>
 
 ## Features &nbsp;&nbsp; :page_with_curl:
 
@@ -71,30 +82,3 @@
 <img alt="resume builder" src="./src/assets/images/svg/Made-with-react.svg" />
 
 <br><br>
-
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://hhhrrrttt222111.web.app/"><img src="https://avatars.githubusercontent.com/u/43471295?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hemanth R</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/resume-builder/commits?author=hhhrrrttt222111" title="Code">💻</a> <a href="#design-hhhrrrttt222111" title="Design">🎨</a> <a href="#maintenance-hhhrrrttt222111" title="Maintenance">🚧</a></td>
-        <td align="center"><a href="https://iamgayathrysuresh.web.app/"><img src="https://avatars.githubusercontent.com/u/62144916?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gayathry Suresh</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/resume-builder/commits?author=Gayathry17" title="Code">💻</a> <a href="#design-Gayathry17" title="Design">🎨</a> <a href="#content-Gayathry17" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://avatars.githubusercontent.com/u/62107737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shimil Shaji Abraham</b></sub></a><br /><a href="https://github.com/hhhrrrttt222111/resume-builder/commits?author=ShimilSAbraham" title="Code">💻</a> <a href="#design-ShimilSAbraham" title="Design">🎨</a> <a href="#content-ShimilSAbraham" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
